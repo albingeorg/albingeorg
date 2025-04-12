@@ -40,6 +40,6 @@
   <a href="www.linkedin.com/in/georgealbin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="georgealbin58@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
   <a href="https://albingeorge.github.io"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox-browser" /></a>
-  <a href="[https://leetcode.com/albin_george](https://leetcode.com/u/albinwise/)/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://leetcode.com/u/albinwise/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
 </p>
 
